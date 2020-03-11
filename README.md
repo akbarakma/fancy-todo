@@ -1,9 +1,12 @@
 # Deploy Link:
-## [https://fancy-todos-1583339599206.firebaseapp.com/](https://fancy-todos-1583339599206.firebaseapp.com/)
+## [https://fancy-todos-1583339599206.firebaseapp.com](https://fancy-todos-1583339599206.firebaseapp.com/)
+
+# Endpoint:
+## [https://tranquil-brushlands-57730.herokuapp.com](https://tranquil-brushlands-57730.herokuapp.com)
 
 # POST /todos
 ## Endpoint
-> localhost:3000/todos
+> /todos
 
 ## Authentication:
 Token (required)
@@ -69,7 +72,7 @@ Status 500
 
 # GET /todos
 ## Endpoint
-> localhost:3000/todos
+> /todos
 
 ## Authentication:
 Token (required)
@@ -119,7 +122,7 @@ Status 500
 
 # GET /todos/:id
 ## Endpoint
-> localhost:3000/todos/:id
+> /todos/:id
 
 ## Authentication:
 Token (required)
@@ -174,7 +177,7 @@ Status 500
 
 # PUT /todos/:id
 ## Endpoint
-> localhost:3000/todos/:id
+> /todos/:id
 
 ## Authentication:
 Token (required)
@@ -245,7 +248,7 @@ Status 500
 
 # DELETE /todos/:id
 ## Endpoint
->localhost:3000/todos/:id
+>/todos/:id
 ## Authentication:
 Token (required)
 
@@ -299,7 +302,7 @@ Status 500
 
 # POST /users/register
 ## Endpoint
-> localhost:3000/users/register
+> /users/register
 
 ## Request header: 
 ```
@@ -346,7 +349,7 @@ Status 500
 
 # POST /users/login
 ## Endpoint
-> localhost:3000/users/login
+> /users/login
 
 ## Request header: 
 ```
